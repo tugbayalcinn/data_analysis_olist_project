@@ -22,6 +22,9 @@ This project aims to analyze Olist online marketing sales data from 2016 to 2018
 3. Sales Analysis:
 * Top 5 Fastest Delivering Sellers: The top 5 fastest delivering sellers were identified, and their number of orders, reviews, and ratings were analyzed.
 
+## RFM Analysis Results
+The RFM analysis revealed valuable insights into customer segments, helping identify potential, loyal, valuable, and super customers. This segmentation allows for targeted marketing strategies to improve customer retention, increase sales, and enhance overall customer satisfaction. By understanding the recency, frequency, and monetary value of customer purchases, we can tailor our approach to meet the needs of different customer groups effectively.
+
 ## Conclusion and Evaluation
 This project provides a detailed analysis of Olist's sales data, enhancing the understanding of orders and customer behavior. The analysis results offer valuable insights for developing sales strategies and improving customer satisfaction.
 
