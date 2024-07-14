@@ -1,29 +1,27 @@
-# Olist Online Pazarlama 2016-2018 Satış Verileri
-Bu proje, 2016-2018 yılları arasındaki Olist online pazarlama satış verilerini analiz etmeyi amaçlamaktadır. Bu veri seti, satış, müşteri, ürün ve sipariş detaylarını içermektedir ve veri analizinin birçok yönünü kapsamaktadır.
-* Kullanılan Teknolojiler ve Araçlar
-  * Veritabanı: PostgreSQL
-  * Veri Analizi: SQL sorguları kullanılarak veri analizleri yapıldı.
-  * Görselleştirme: Excel ile verilerin görselleştirilmesi ve yorumlanması sağlandı.
+# Olist Online Marketing 2016-2018 Sales Data
+This project aims to analyze Olist online marketing sales data from 2016 to 2018. The dataset includes details on sales, customers, products, and orders, encompassing various aspects of data analysis.
 
+* Technologies and Tools Used
+  * Database: PostgreSQL
+  * Data Analysis: SQL queries were used for data analysis.
+  * Visualization: Data visualization and interpretation were done using Excel.
+## About the Project
+* Data Source: Olist's sales data from 2016 to 2018.
+* Scope of Analysis: Order analysis, customer analysis, and sales analysis.
 
-## Proje Hakkında
-* Veri Seti Kaynağı: Olist'in 2016-2018 yılları arasındaki satış verileri.
-* Analiz Kapsamı: Sipariş analizi, müşteri analizi ve satış analizi.
-## Proje Detayları
-1. Sipariş Analizi:
+## Project Details
+1. Order Analysis:
+* Monthly Order Distribution: The distribution of orders on a monthly basis was analyzed. It was observed that November 2017 had the highest number of orders.
+* Order Status Analysis: The analysis of orders based on their monthly status (delivered, canceled, etc.) was conducted.
+* Product Category Analysis: The distribution of orders by product category was analyzed, identifying prominent categories during special occasions (Valentine's Day, New Year, etc.).
+* Daily Order Distribution: The number of orders was analyzed based on the days of the week and days of the month.
 
-* Aylık Sipariş Dağılımı: Siparişlerin aylık bazda dağılımı incelendi. 2017 yılının Kasım ayında en yüksek sipariş sayısına ulaşıldığı görüldü.
-* Sipariş Durumu İncelemesi: Siparişlerin aylık bazda durumlarına göre (teslim edildi, iptal edildi vb.) analizi yapıldı.
-* Ürün Kategori Analizi: Ürün kategorilerine göre siparişlerin dağılımı incelendi ve özel günlerde (Sevgililer Günü, Yeni Yıl vb.) öne çıkan kategoriler belirlendi.
-* Günlük Sipariş Dağılımı: Haftanın günleri ve ayın günleri bazında sipariş sayıları analiz edildi.
+2. Customer Analysis:
+Order Distribution by Cities: The cities with the highest number of orders were identified, with São Paulo emerging as the city with the most orders.
 
-2. Müşteri Analizi:
+3. Sales Analysis:
+Top 5 Fastest Delivering Sellers: The top 5 fastest delivering sellers were identified, and their number of orders, reviews, and ratings were analyzed.
 
-Şehirlere Göre Sipariş Dağılımı: Müşterilerin en fazla sipariş verdiği şehirler belirlendi. Sao Paulo en fazla sipariş verilen şehir olarak öne çıktı.
+## Conclusion and Evaluation
+This project provides a detailed analysis of Olist's sales data, enhancing the understanding of orders and customer behavior. The analysis results offer valuable insights for developing sales strategies and improving customer satisfaction.
 
-3. Satış Analizi:
-
-* En Hızlı Teslimat Yapan Satıcılar: En hızlı teslimat yapan 5 satıcı belirlendi ve bu satıcıların sipariş sayıları, yorum ve puanları incelendi.
-
-## Sonuç ve Değerlendirme
-Bu proje, Olist satış verilerinin detaylı bir analizini sunarak, siparişlerin ve müşteri davranışlarının daha iyi anlaşılmasını sağlamaktadır. Analiz sonuçları, satış stratejilerinin geliştirilmesi ve müşteri memnuniyetinin artırılması için önemli bilgiler sunmaktadır.
