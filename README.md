@@ -17,10 +17,10 @@ This project aims to analyze Olist online marketing sales data from 2016 to 2018
 * Daily Order Distribution: The number of orders was analyzed based on the days of the week and days of the month.
 
 2. Customer Analysis:
-Order Distribution by Cities: The cities with the highest number of orders were identified, with São Paulo emerging as the city with the most orders.
+* Order Distribution by Cities: The cities with the highest number of orders were identified, with São Paulo emerging as the city with the most orders.
 
 3. Sales Analysis:
-Top 5 Fastest Delivering Sellers: The top 5 fastest delivering sellers were identified, and their number of orders, reviews, and ratings were analyzed.
+* Top 5 Fastest Delivering Sellers: The top 5 fastest delivering sellers were identified, and their number of orders, reviews, and ratings were analyzed.
 
 ## Conclusion and Evaluation
 This project provides a detailed analysis of Olist's sales data, enhancing the understanding of orders and customer behavior. The analysis results offer valuable insights for developing sales strategies and improving customer satisfaction.
